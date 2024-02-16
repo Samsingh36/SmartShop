@@ -3,9 +3,9 @@ interface Amount {
 }
 
 const FormattedPrice = ({ amount }: Amount) => {
-  const formattedAmount = new Number(amount).toLocaleString("en-US", {
+  const formattedAmount = new Number(amount).toLocaleString("en-IN", {
     style: "currency",
-    currency: "USD",
+    currency: "INR",
     maximumFractionDigits: 2,
   });
   return <span>{formattedAmount}</span>;

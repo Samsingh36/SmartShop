@@ -12,8 +12,8 @@ export const POST = async (request: NextRequest) => {
     const extractingItems = await items.map((item: Products) => ({
       quantity: item.quantity,
       price_data: {
-        currency: "usd",
-        unit_amount: item.price * 100,
+        currency: "inr",
+        unit_amount: item.price,
         product_data: {
           name: item.title,
           description: item.description,
