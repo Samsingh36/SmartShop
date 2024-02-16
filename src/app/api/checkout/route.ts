@@ -13,7 +13,7 @@ export const POST = async (request: NextRequest) => {
       quantity: item.quantity,
       price_data: {
         currency: "inr",
-        unit_amount: item.price,
+        unit_amount: item.price * 100,
         product_data: {
           name: item.title,
           description: item.description,
