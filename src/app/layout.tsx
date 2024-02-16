@@ -10,6 +10,9 @@ export const metadata: Metadata = {
     template: "shopping_mart",
     default: "Shopping Mart - A place for all!",
   },
+  verification: {
+    google: "zys6rgWTldiyV_4lzOdCJ3yNFDb5qHLkoXNtGnARUys",
+  },
 };
 
 export default function RootLayout({
