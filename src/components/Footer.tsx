@@ -59,26 +59,26 @@ Start your fashion journey with TrendCart today.
           <ul className="text-sm font-light mt-2 flex flex-col gap-y-2">
             <li className="flex flex-col">
               <span className="text-slate hover:text-orange-600 cursor-pointer duration-200">
+            Shopping made trendy and effortless with TrendCart - your go-to destination for fashion-forward finds
+              </span>
+              {/* <span className="text-orange-600">February 16, 2024</span>
+            </li>
+            <li className="flex flex-col">
+              <span className="text-slate hover:text-orange-600 cursor-pointer duration-200">
                 Where Music Is Headed Next
+              </span> */}
+              {/* <span className="text-orange-600">February 16, 2024</span>
+            </li>
+            <li className="flex flex-col">
+              <span className="text-slate hover:text-orange-600 cursor-pointer duration-200"> */}
+                {/* Where Music Is Headed Next
               </span>
               <span className="text-orange-600">February 16, 2024</span>
             </li>
             <li className="flex flex-col">
               <span className="text-slate hover:text-orange-600 cursor-pointer duration-200">
                 Where Music Is Headed Next
-              </span>
-              <span className="text-orange-600">February 16, 2024</span>
-            </li>
-            <li className="flex flex-col">
-              <span className="text-slate hover:text-orange-600 cursor-pointer duration-200">
-                Where Music Is Headed Next
-              </span>
-              <span className="text-orange-600">February 16, 2024</span>
-            </li>
-            <li className="flex flex-col">
-              <span className="text-slate hover:text-orange-600 cursor-pointer duration-200">
-                Where Music Is Headed Next
-              </span>
+              </span> */}
               <span className="text-orange-600">February 16, 2024</span>
             </li>
           </ul>
