@@ -19,10 +19,12 @@ const Footer = () => {
         <div className="flex flex-col gap-y-4">
           <Logo />
           <p>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsa in
-            sint incidunt, minima quos voluptates, nobis autem laborum earum est
-            pariatur aperiam. Delectus consectetur maxime quidem veniam,
-            corporis.
+            
+Discover understated elegance at TrendCart, where simplicity meets sophistication.
+Explore curated collections reflecting the latest trends with timeless appeal. 
+From versatile separates to eye-catching accessories, find your style effortlessly. 
+Start your fashion journey with TrendCart today.
+
           </p>
           <div className="flex items-center gap-x-4">
             <a href="https://www.youtube.com/@reactjsBD" target="_blank">
@@ -53,31 +55,31 @@ const Footer = () => {
           </div>
         </div>
         <div>
-          <p className="text-lg">Laset posts</p>
+          <p className="text-lg">Latest Posts</p>
           <ul className="text-sm font-light mt-2 flex flex-col gap-y-2">
             <li className="flex flex-col">
               <span className="text-slate hover:text-orange-600 cursor-pointer duration-200">
                 Where Music Is Headed Next
               </span>
-              <span className="text-orange-600">January 31, 2022</span>
+              <span className="text-orange-600">February 16, 2024</span>
             </li>
             <li className="flex flex-col">
               <span className="text-slate hover:text-orange-600 cursor-pointer duration-200">
                 Where Music Is Headed Next
               </span>
-              <span className="text-orange-600">January 31, 2022</span>
+              <span className="text-orange-600">February 16, 2024</span>
             </li>
             <li className="flex flex-col">
               <span className="text-slate hover:text-orange-600 cursor-pointer duration-200">
                 Where Music Is Headed Next
               </span>
-              <span className="text-orange-600">January 31, 2022</span>
+              <span className="text-orange-600">February 16, 2024</span>
             </li>
             <li className="flex flex-col">
               <span className="text-slate hover:text-orange-600 cursor-pointer duration-200">
                 Where Music Is Headed Next
               </span>
-              <span className="text-orange-600">January 31, 2022</span>
+              <span className="text-orange-600">February 16, 2024</span>
             </li>
           </ul>
         </div>
